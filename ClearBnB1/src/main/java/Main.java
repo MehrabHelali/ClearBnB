@@ -23,5 +23,7 @@ public class Main {
     
     // start server
     app.listen(4000);
+
+    System.out.println("Hej");
   }
 }
